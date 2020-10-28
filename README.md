@@ -4,6 +4,7 @@
 
 <!--
 **TharunRaj7/TharunRaj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 - 🔭 I’m currently working on: A full stack gym reservation web app using Flask and MySQL
 - 🌱 I’m currently learning: Inferential statistics and database design
 - 👯 I’m looking to collaborate on: Projects that have real-world impacts
@@ -12,4 +13,3 @@
 - 📫 How to reach me: tm272@duke.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 80% of my showers consist of beatboxing
--->
