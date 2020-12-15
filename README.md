@@ -5,7 +5,7 @@
 <!--
 **TharunRaj7/TharunRaj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on: A full stack gym reservation web app using Flask and MySQL
+- 🔭 I’m currently working on: A full stack food donation management platform for a Malaysian NGO (The Lost Food Project)
 - 🌱 I’m currently learning: Inferential statistics and database design
 - 👯 I’m looking to collaborate on: Projects that have real-world impacts
 - 🤔 I’m looking for help with: Getting a summer 2021 internship...you won't regret hiring me ;)
