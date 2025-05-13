@@ -7,6 +7,6 @@
 -->
 - 🌱 I’m currently learning: How to actually execute on ideas.
 - 👯 I’m looking to collaborate on: Projects that are plain fun to do!
-- 💬 Ask me about: Computer science, tech, philosophy, calisthenics and tbh pretty much anything
+- 💬 Ask me about: Computer science, tech, philosophy, fitness and tbh pretty much anything
 - 📫 How to reach me: nuraht.raj@gmail.com
 - ⚡ Fun fact: 80% of my showers consist of beatboxing
